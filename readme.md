@@ -9,9 +9,3 @@
 3. Telegram bot as interface
 4. Hosting as models' backend
 
-## Optionally
-1. Audio message summarizer.
-
-    We can enter text and get summarized post-processed output.
-    Check raw text?
-
